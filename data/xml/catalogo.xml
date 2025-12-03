@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="micatalogo_resumen.xsl"?>
+<catalogo>
+
+    <producto id="Batidora">
+        <nombre>Batidora de Vaso Pro Mineral</nombre>
+        <descripcion>Dota de 900W, cuchillas de acero inoxidables y un vaso personal para llevar contigo tu batido a donde quieras.</descripcion>
+        <categoria>Electrodomesticos</categoria>
+        <precio moneda="EUR">69.99</precio>
+        <imagen url="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143920006?x=536y=402format=jpgquality=80sp=yesstrip=yestrimex=536ey=402align=centerresizesourceunsharp=1.5x1+0.7+0.02cox=0coy=0cdx=536cdy=402"/>
+    </producto>
+    
+    <producto id="Pistola_masaje">
+        <nombre>Pistola de masajes "Therabody Theragun Prime Plus"</nombre>
+        <descripcion>Este producto es útil para descargar tus músculos después de un día de trabajo duro o de hacer un sobre esfuerzo, si buscas liberarte del dolor muscular, ¡pruébalo!</descripcion>
+        <categoria>Relax</categoria>
+        <precio moneda="EUR">399</precio>
+        <imagen url="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQUbeWfae8PjKJ5qM90wTSeU09g1jresHDqJfNP9_F1aRKcYFOmGLJEoXi3rIKCzuRYLrwbxnm2pYTE1rFaxA7q_uaqixPcuPTkUINMPPoOKveAuDAz_q55pg"/>
+    </producto>
+    
+    <producto id="Zapatillas-converse">
+        <nombre>Zapatillas Converse "Chuck Taylor All Star Easy-On Allover Apples"</nombre>
+        <descripcion>Estas zapatillas tienen un estilo que impresionará a todos tus amigos</descripcion>
+        <categoria>Calzado</categoria>
+        <precio moneda="EUR">73.99</precio>
+        <imagen url="https://www.converse.com/dw/image/v2/BJJF_PRD/on/demandware.static/-/Sites-cnv-master-catalog-we/default/dw32012a84/images/h_08/A13181C_H_08X1.jpg?sw=406"/>
+    </producto>
+    
+    <producto id="Resident-Evil">
+        <nombre>Resident Evil 2 Remake</nombre>
+        <descripcion>Adentrate de nuevo en la ciudad donde comenzo todo con gráficos mejorados y muchos más cambios</descripcion>
+        <categoria>Videojuegos</categoria>
+        <precio moneda="EUR">23.99</precio>
+        <imagen url="https://thvnext.bing.com/th/id/OPEC.KOJaVLZASX2mpg474C474?w=160h=220c=17cb=12pid=21.1.jpg"/>
+    </producto>
+    
+    <producto id="PL-Z-A">
+        <nombre>Pokemon Legends Z-A</nombre>
+        <descripcion>Ayuda a Ciudad Luminalia a combatir contra las megaevouciones descontroladas junto a un grupo de chicos llamado "Equipo MZ"</descripcion>
+        <categoria>Videojuegos</categoria>
+        <precio moneda="EUR">48.99</precio>
+        <imagen url="https://cdn.netzshopping.de/productimages/T/F/7/B0FHWV67FT.jpg"/>
+    </producto>
+
+    <producto id="Batidora">
+        <nombre>Batidora de Vaso Pro Mineral</nombre>
+        <descripcion>Dota de 900W, cuchillas de acero inoxidables y un vaso personal para llevar contigo tu batido a donde quieras.</descripcion>
+        <categoria>Electrodomesticos</categoria>
+        <precio moneda="EUR">69.99</precio>
+        <imagen url="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143920006?x=536y=402format=jpgquality=80sp=yesstrip=yestrimex=536ey=402align=centerresizesourceunsharp=1.5x1+0.7+0.02cox=0coy=0cdx=536cdy=402"/>
+    </producto>
+
+</catalogo>
+
+<!--
+Comentarios explicativos
+
+1. Se elimina todo tipo de atributo de presentación, como el "<header>", "<body>", y otros ya que no se va ha presentar.
+2. Se usan atributos como "<precio moneda="EUR">" para establecer la moneda que queremos que aparezca en el artículo, desccribiendo más exactamente lo que queremos.
+3. El uso de "Etiquetas vacias" con las cuales se tiene que usar solo una etiqueta en vez de una de apertura y una de cierre ahorrando tiempo y reduciendo código.
+4. Usamos XML para crear una descripción detallada de los artículos, no buscamos exponerlo solo almacenarlo con una única estructura, mientras que el HTML se usa para presentar la información dandole estilos y estructuras.
+-->
