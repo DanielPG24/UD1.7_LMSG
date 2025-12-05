@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+ 
+ <sistema_inventario>
+    
+    <zona_almacen codigo="A1">
+        
+        <estante nivel="3">
+            <item ref="X-99">
+                <nombre>Monitor CRT</nombre>
+                <estaNuevo>No</estaNuevo>
+            </item>
+            <item ref="X-100">
+                <nombre>Teclado Mecánico</nombre>
+                <estaNuevo>Si</estaNuevo>
+            </item>
+        </estante>
+        
+        <responsable>
+            <permiso>
+                <tipo>Admin</tipo>
+                <tipo>Editor</tipo>
+            </permiso>
+            <nombre>Juan</nombre>
+        </responsable>
+    
+    </zona_almacen>
+ 
+ </sistema_inventario>

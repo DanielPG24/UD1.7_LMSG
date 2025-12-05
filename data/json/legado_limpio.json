@@ -1,0 +1,36 @@
+{
+    "sistema_inventario":{
+        "zona_almacen":[
+            {
+                "codigo": "A1",
+                "estante":{
+                    "nivel":3,
+                    "item":[
+                        {
+                            "ref":"X-99",
+                            "nombre":"Monitor CRT",
+                            "estaNuevo":false
+                        },
+                    
+                        {
+                            "ref":"X-100",
+                            "nombre":"Teclado Mecánico",
+                            "estaNuevo":true
+                        }
+                    ]
+                },
+                "responsable":[
+                    {
+                        "permiso":{
+                            "tipo":["Admin", "Editor"]
+                        },
+                        "nombre":"Juan"
+                    }
+                    
+                ]
+            }
+        ]
+                
+    }
+                   
+}
