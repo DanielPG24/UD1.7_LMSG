@@ -1,0 +1,84 @@
+{
+  "catalogo": {
+    "producto": [
+      {
+        "id": "Batidora",
+        "nombre": "Batidora de Vaso Pro Mineral",
+        "descripcion": "Dota de 900W, cuchillas de acero inoxidables y un vaso personal para llevar contigo tu batido a donde quieras.",
+        "categoria": "Electrodomesticos",
+        "precio": {
+          "moneda": "EUR",
+          "valor": 69.99
+        },
+        "imagen": {
+          "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143920006?x=536y=402format=jpgquality=80sp=yesstrip=yestrimex=536ey=402align=centerresizesourceunsharp=1.5x1+0.7+0.02cox=0coy=0cdx=536cdy=402"
+        }
+      },
+      {
+        "id": "Pistola_masaje",
+        "nombre": "Pistola de masajes \"Therabody Theragun Prime Plus\"",
+        "descripcion": "Este producto es útil para descargar tus músculos después de un día de trabajo duro o de hacer un sobre esfuerzo, si buscas liberarte del dolor muscular, ¡pruébalo!",
+        "categoria": "Relax",
+        "precio": {
+          "moneda": "EUR",
+          "valor": 399
+        },
+        "imagen": {
+          "url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQUbeWfae8PjKJ5qM90wTSeU09g1jresHDqJfNP9_F1aRKcYFOmGLJEoXi3rIKCzuRYLrwbxnm2pYTE1rFaxA7q_uaqixPcuPTkUINMPPoOKveAuDAz_q55pg"
+        }
+      },
+      {
+        "id": "Zapatillas-converse",
+        "nombre": "Zapatillas Converse \"Chuck Taylor All Star Easy-On Allover Apples\"",
+        "descripcion": "Estas zapatillas tienen un estilo que impresionará a todos tus amigos",
+        "categoria": "Calzado",
+        "precio": {
+          "moneda": "EUR",
+          "valor": 73.99
+        },
+        "imagen": {
+          "url": "https://www.converse.com/dw/image/v2/BJJF_PRD/on/demandware.static/-/Sites-cnv-master-catalog-we/default/dw32012a84/images/h_08/A13181C_H_08X1.jpg?sw=406"
+        }
+      },
+      {
+        "id": "Resident-Evil",
+        "nombre": "Resident Evil 2 Remake",
+        "descripcion": "Adentrate de nuevo en la ciudad donde comenzo todo con gráficos mejorados y muchos más cambios",
+        "categoria": "Videojuegos",
+        "precio": {
+          "moneda": "EUR",
+          "valor": 23.99
+        },
+        "imagen": {
+          "url": "https://thvnext.bing.com/th/id/OPEC.KOJaVLZASX2mpg474C474?w=160h=220c=17cb=12pid=21.1.jpg"
+        }
+      },
+      {
+        "id": "PL-Z-A",
+        "nombre": "Pokemon Legends Z-A",
+        "descripcion": "Ayuda a Ciudad Luminalia a combatir contra las megaevouciones descontroladas junto a un grupo de chicos llamado \"Equipo MZ\"",
+        "categoria": "Videojuegos",
+        "precio": {
+          "moneda": "EUR",
+          "valor": 48.99
+        },
+        "imagen": {
+          "url": "https://cdn.netzshopping.de/productimages/T/F/7/B0FHWV67FT.jpg"
+        }
+      },
+      {
+        "id": "Batidora",
+        "nombre": "Batidora de Vaso Pro Mineral",
+        "descripcion": "Dota de 900W, cuchillas de acero inoxidables y un vaso personal para llevar contigo tu batido a donde quieras.",
+        "categoria": "Electrodomesticos",
+        "precio": {
+          "moneda": "EUR",
+          "valor": 69.99
+        },
+        "imagen": {
+          "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143920006?x=536y=402format=jpgquality=80sp=yesstrip=yestrimex=536ey=402align=centerresizesourceunsharp=1.5x1+0.7+0.02cox=0coy=0cdx=536cdy=402"
+        }
+      }
+    ]
+  }
+}
